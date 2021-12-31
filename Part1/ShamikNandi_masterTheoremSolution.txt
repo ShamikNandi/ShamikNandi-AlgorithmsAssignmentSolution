@@ -1,0 +1,14 @@
+a) T (n) = 3T (n/2) + n
+Time complexity: Θ(n^log3{base2})
+
+b) T (n) = 64T (n/8) − n^2(log n)
+Time complexity: Θ(n^2(logn))
+
+c) T (n) = 2nT (n/2) + n^n
+Time complexity: Θ(n^n)
+
+d) T (n) = 3T (n/3) + n/2 
+Time complexity: Θ(nlogn)
+
+e) T (n) = 7T (n/3) + n^2
+Time complexity: Θ(n^2)	
